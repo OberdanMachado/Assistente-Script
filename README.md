@@ -37,5 +37,5 @@ Um assistente de voz leve, feito em Python, com reconhecimento de fala e respost
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/OberdanMachado/seu-repo.git
-cd seu-repo
+git clone git remote add origin https://github.com/OberdanMachado/Assistente-Script.git
+
